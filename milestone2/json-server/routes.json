@@ -1,0 +1,7 @@
+{
+    "/claims/list": "/claims",
+    "/claims/get/:id": "/claims/:id",
+    "/claims/create": "/claims",
+    "/claims/update/:id": "/claims/:id",
+    "/claims/delete/:id": "/claims/:id"
+  }

@@ -1,0 +1,54 @@
+.header{
+  background-color: blue;
+  font-family: OpenSans;
+}
+
+.LoginHeader{
+  background-color: whitesmoke;
+  font-family: OpenSans;
+  text-align: center;
+}
+.MainHead{
+ display: inline;
+  margin-left: 32rem;
+}
+.footer-copyright{
+  color: white;
+}
+.about{
+  text-align: center;
+}
+.HeadTime{
+  margin-left: 3rem;
+}
+.logincard{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+tbody{
+  text-align: center;
+}
+
+.next{
+  width: 5rem;
+}
+
+.cancel{
+  width: 5rem;
+}
+
+.error-msg{
+  color: red;
+}
+@font-face {
+  font-family: OpenSans;
+  src: url("C:Open_Sans/OpenSans-Regular.ttf");
+ }
+ div{
+   font-family: OpenSans;
+ }
+ .user{
+   color: white;
+ }
+
